@@ -1,0 +1,28 @@
+1 - O que é o Git e para que serve?
+
+R : Git é um projeto de código aberto maduro e com manuntenção ativa, Desenvolvido em 2005 por Linus Torvalds, 
+o famoso criador do Kernel do sistema operacional Linux.Um número impressionante de projetos de software depende do Git
+para controle de versão, incluindo projetos comerciais e de código-fonte aberto. 
+
+2 - O que é o GitHub?
+R: É uma plantaforma de hospedagem do código fonte, Baseado na Web que utiliza o sistema de controle de versão Git.
+
+3 - Qual é a diferença entre GitHub e Git? 
+R: O Git é uma ferramenta de controle de versão local, Já o GitHub é uma plataforma online que permite hospedar projetos Git
+e colaborar com outras pessoas. Ambos são úteis para o trabalho de desenvolvidores. 
+
+4 - O que é Docker? 
+R : É uma plataforma Open source que facilita a criação e administração de ambientes isolados. 
+Ele possibilita o empacotamento de uma aplicação ou ambiente dentro de container, tornasse portátil para qualquer outro host que
+contenha o Docker isolado. A ideia do Docker é subir apenas uma máquina, ao invés de várias. Nessa única máquina, 
+podemos rodar várias aplicações sem que haja conflitos entre elas. De lembrar que a tecnologia e a empresa compartilham o mesmo nome. 
+A empresa Docker Inc desenvolve a tecnologia com base no trabalho realizado pela comunidade do Docker, 
+E trabalha gratuitamente para melhorar essas tecnologias em benefícios de todos. Assim sendo, podemos afirma que o 
+Docker é uma máquina virtual? O Docker é algo parecido com uma máquina virtual extremamente leve, 
+porém não se trata de fato de uma máquina virtual. o Docker utiliza containers que possuem uma arquitetura diferente,
+e permite maior portabilidade e eficiência. O container exclui a virtualização e muda o processo para o Docker. 
+
+5 - O que são esses containers? 
+R: Um containers é um ambiente isolado. Um containers contém um conjunto de processos que são executados a partir de uma imagem, 
+Imagem está que fornece todos os arquivos necessários. Os containers compartilham o mesmo Kernel e isolam os processos da aplicação 
+do restante do sistema.
